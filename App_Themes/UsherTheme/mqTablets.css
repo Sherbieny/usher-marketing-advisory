@@ -1,0 +1,2886 @@
+﻿/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {     
+    
+/**************************************************************************************************/
+/*************************************MENU*********************************************************/
+/**************************************************************************************************/
+
+    .img-usher {        
+        height: 162px;          
+        margin-left: -25px;    
+        margin-top: -33px;
+    }
+    .navbar-usher{
+
+        min-height:120px!important;
+        margin-bottom:120px!important;
+        
+    }
+
+    .img-usher-menu {
+        width: 45px;        
+        height: 56px;
+    }
+    .nav-usher{
+        margin-bottom:-7px;
+    }
+    .nav-usher>li>a {
+      position: relative;
+      display: block;
+      padding: 10px 1px!important;
+    }
+    .menu-label{
+        background-color: rgb(41,40,41);
+        color:white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 3.7pt;
+        line-height: 13px;
+        text-rendering: auto;        
+    }
+
+    .menu-label-white{
+        background-color:white;
+        color:white;
+        height: 32px;
+        width: 5px;
+    }
+    .menu-label-black{
+        background-color: rgb(41,40,41);
+        color:rgb(41,40,41);
+        width:22px;
+        margin-top:2px;
+        font-size:6pt;
+        line-height:15px;        
+    }
+    .strategic-style{
+
+    }
+    .insight-style{
+
+    }
+    .brand-style{
+
+    }
+    .marketing-style{          
+         padding-left: 0px;
+    }
+    .relation-style{        
+        padding-left: 0px;
+    }
+    .comm-style{
+    
+     padding-left: 0px;
+    }
+    .retail-style {
+        margin-left: 4px;
+    }
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+    .comm-style{
+         margin-left: 4px;
+    }
+    .relation-style{
+         margin-left: 4px;
+    }
+    .marketing-style{
+        margin-left: 0px;
+    }
+    .red-square{
+      
+      height: 31px;
+      width: 36px;
+    }
+    
+    .menu-bar{
+
+    background-color: rgb(41,40,41);   
+    height: 32px;
+    display: flex;
+    float:right;
+    width: 422px;
+    }
+
+
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+
+    .main section.page1 .page_container h1 {
+        font-weight: 700;
+        text-align: left;
+    }
+
+
+    .number {
+        font-weight: 700;
+        font-size: 70pt;
+        margin-left:50px;
+    }
+   
+    .xs-margin-top{
+        margin-top:100px;
+    }
+   
+    #about p{
+        font-size:12pt;
+    }
+
+    #about h1 {
+        font-size: 49pt;
+        letter-spacing: 0px;
+    }
+    
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 56px !important;
+        padding-right: 1px !important;
+    }
+
+  
+
+    #about .img-resolution {
+        height: 400px;
+        margin-top:200px;
+    }
+
+  
+
+
+/************************strategic************************/
+
+ #strategic-font{
+        font-size: 13pt;
+    }
+     .strategic-number-pull {
+        margin-top: -21%;
+    }
+    .strategic-rightside {
+        display: flex;
+        display: inline-flexbox;
+        margin-top: -33px;
+    }
+    .strategic-largeNumber-pull {
+        margin-top: 0px;
+    }
+    .img-strategic {
+        height: 500px;
+    }
+
+    .main section.page1 .page_container h1 {
+        letter-spacing: 9px;
+        font-weight: 700;
+        font-size: 13pt;
+        text-align: left;
+    }
+    .img-strategic-reddots {
+        height: 150px;
+    }
+    .img-strategic-reddots-pull {
+        margin-top: -85%;
+    }
+
+
+    #strategic .red-divider {
+        padding-left: 27px !important;
+        padding-right: 1px !important;
+        margin-top: 3%;
+    }
+     .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 100px;
+    }    
+   
+/*******************INSIGHT***************************/
+
+    .img-resolution-insight {
+        height: 327px;
+        margin-top: 50px;
+    }  
+  
+ 
+    .insight-left {
+        margin-left: -16vw !important;
+    }
+    .insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+    .insight-number .number {
+        font-weight: 100;
+        font-size: 175pt;
+    }
+      #insight .red-divider {
+        padding-left: 39px !important;
+        padding-right: 1px !important;
+        background-color: rgb(217,56,50);
+        margin-top: 2%;
+        margin-left: 60px;
+    }
+    #insight-font{
+        font-size: 12pt;
+    }
+    
+    .number-insight{
+        font-weight: 100;
+        font-size: 70pt;
+        margin-left: 87px;
+    }
+/******************************BRAND***************************/
+    .text-brand {
+        margin-top: -65px;
+    }
+    .img-brand {
+        height: 535px;
+    }
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+    .number-brand{
+        font-size:125pt;
+        margin-left:20px;
+    }
+    .img-brand2 {
+        height: 535px;
+    }
+    .text-brand{
+        margin-top:-65px;
+    }
+    #brand-font{
+        font-size:18pt;
+    }
+    #brand h1 {
+        letter-spacing: 0px;
+    }
+
+/******************************Marketing*************************/
+
+    .number-manag {
+        font-weight: 700;
+        font-size: 70pt;
+        text-align: left;
+        margin-left: 86px;
+    }
+      .marketing-image-2 {        
+        height: 220px;
+    }
+    #marketing-font {
+        font-size: 13pt;
+    }
+    #management .red-divider {
+        padding-left: 48px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 2%;
+        margin-left: 27px;
+    }
+/*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top:150px;
+    }
+    #relation-letter-spacing{
+        letter-spacing:0px;
+    }
+   .img-relation{
+       height: 420px;
+   }
+    #relation .red-divider {
+        padding-left: 26px !important;
+        padding-right: 1px !important;    
+    }
+    .number-relation{
+        font-weight: 100;
+        font-size: 70pt;
+        margin-left: 45px;
+    }
+    #relation-font{
+        font-size: 13pt;
+    }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing{
+        letter-spacing:0px;
+        font-size: 27pt
+    }
+    
+    .number-comm {
+        font-weight: 700;
+        font-size: 70pt;
+        text-align: left;
+        margin-left: 192px;
+    }
+    .comm-left{
+        margin-left: -230px;
+        margin-top: -60px;
+    }
+    
+    #comm-font{
+       margin-top:10px;
+       font-size:15pt;
+    }   
+     .comm1 {
+        margin-left: -30px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+    .comm2 {
+        background-clip: border-box;
+        margin-left: 162px;
+        padding-left: 4px !important;
+        padding-right: 1px !important;
+    }
+    #comm-img{
+        margin-top:0px;
+        margin-left:49px;
+    }
+
+/******************RETAIL************************/
+
+    #retail h1{
+        font-size: 20pt;
+    }    
+    .number-retail{
+        font-size: 80pt;
+        margin-left: 40px;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+    .img-retail {              
+        height: 500px;        
+    }
+    #retail .red-divider {
+        padding-left: 20px !important;
+        padding-right: 6px !important;
+        margin-top: 6%;
+    }
+     #retail-font{
+         font-size: 13pt;
+     }
+     #retail .number{
+         font-size: 60pt;
+     }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px)     
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {      
+    
+/**************************************************************************************************/
+/*************************************MENU*********************************************************/
+/**************************************************************************************************/
+
+    .img-usher {        
+        height: 165px;          
+        margin-left: -25px;    
+        margin-top: -33px;
+    }
+    .navbar-usher{
+
+        min-height:120px!important;
+        margin-bottom:120px!important;
+        
+    }
+
+    .img-usher-menu {
+        width: 64px;        
+        height: 65px;
+    }
+    .nav-usher{
+        margin-bottom:-7px;
+    }
+    .nav-usher>li>a {
+      position: relative;
+      display: block;
+      padding: 10px 6px!important;
+    }
+    .menu-label{
+        background-color: rgb(41,40,41);
+        color:white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 5.7pt;
+        line-height: 13px;
+        text-rendering: auto;        
+    }
+
+    .menu-label-white{
+        background-color:white;
+        color:white;
+        height: 32px;
+        width: 5px;
+    }
+    .menu-label-black{
+        background-color: rgb(41,40,41);
+        color:rgb(41,40,41);
+        width:22px;
+        margin-top:2px;
+        font-size:6pt;
+        line-height:15px;        
+    }
+    .strategic-style{
+
+    }
+    .insight-style{
+
+    }
+    .brand-style{
+
+    }
+    .marketing-style{
+          font-size: 6pt;
+         padding-left: 6px;
+    }
+    .relation-style{
+          font-size: 5.7pt;
+        padding-left: 7px;
+    }
+    .comm-style{
+          font-size: 5pt;
+     padding-left: 6.1px;
+    }
+    .retail-style {
+        margin-left: 4px;
+    }
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+    .comm-style{
+         margin-left: 4px;
+    }
+    .relation-style{
+         margin-left: 4px;
+    }
+    .marketing-style{
+        margin-left: 0px;
+    }
+    .red-square{
+      
+      height: 32px;
+    }
+    
+    .menu-bar{
+
+    background-color: rgb(41,40,41);   
+    height: 32px;
+    display: flex;
+    float:right;
+	width: 67.7%;
+    }
+
+
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+
+    .main section.page1 .page_container h1 {
+        font-weight: 700;
+        text-align: left;
+    }
+
+
+    .number {
+        font-weight: 700;
+        font-size: 115pt;
+        margin-left:50px;
+    }
+  
+
+    #about p{
+        font-size:12pt;
+    }
+
+    #about h1 {
+        font-size: 50pt;
+        letter-spacing: 9px;
+    }
+  
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+    }
+      
+   
+
+    #about .img-resolution {
+        height: 500px;
+    }
+
+    
+
+  
+  
+/************************strategic************************/
+    .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 50px;
+    }
+    .strategic-number-pull {
+        margin-top: -21%;
+    }
+    #strategic .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+        padding-bottom: 370px;
+        margin-top: 3%;
+    }
+     
+        .strategic-rightside{
+            display:flex;
+            display:inline-flexbox;
+            margin-top:-33px;
+        }
+        .strategic-largeNumber-pull {
+          margin-top: 0px; 
+        }
+    .img-strategic {
+        height: 500px;
+    }
+
+        .main section.page1 .page_container h1 {
+            letter-spacing: 9px;
+            font-weight: 700;
+            font-size: 13pt;
+            text-align: left;
+        }
+    .img-strategic-reddots {
+        height: 150px;
+    }
+        .img-strategic-reddots-pull{
+            margin-top:-85%;
+        }
+       
+
+/*******************INSIGHT***************************/
+
+.insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+    .insight-number .number {
+        font-weight: 100;
+        font-size: 175pt;
+    }
+      .img-resolution-insight {
+        height: 444px;
+        margin-top: 50px;
+    }  
+      .insight-left {
+        margin-left: -16vw !important;
+    }
+       #insight .red-divider {
+        padding-left: 101px !important;
+        padding-right: 1px !important;
+        background-color: rgb(217,56,50);
+        margin-top: 2%;
+        margin-left: 60px;
+    }
+
+
+/******************************BRAND***************************/
+
+    .img-brand {
+        height: 535px;
+    }
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+    .number-brand{
+        font-size:125pt;
+        margin-top:-60px;
+    }
+    .img-brand2 {
+        height: 535px;
+    }
+    .text-brand{
+        margin-top:-65px;
+    }
+      #brand h1 {
+        letter-spacing: 0px;
+    }                      
+
+/**********************MARKETING**********************/
+
+
+    .marketing-image-2 {        
+        height: 220px;
+    }      
+        #management .red-divider {
+        padding-left: 101px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 2%;
+        margin-left: 27px;
+    }
+
+/*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top:150px;
+    }
+    #relation-letter-spacing{
+        letter-spacing:0px;
+    }
+   .number-relation{
+       font-size:180pt;       
+   }
+   #relation .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+        padding-bottom: 467px;
+    }
+
+    #relation-font{
+        font-size: 12pt;
+    }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing{
+        letter-spacing:0px;
+        font-size: 27pt
+    }
+    
+    .number-comm {
+        font-weight: 700;
+        font-size: 120pt;
+        text-align: left;
+        margin-top: -42px;
+        margin-left: -27px;
+    }
+    .comm-left{
+        margin-left: -230px;
+        margin-top: -60px;
+    }
+    
+    #comm-font{
+       margin-top:10px;
+    }   
+      .comm1 {
+        margin-left: -42px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+    .comm2 {
+        margin-left: 106px;
+        padding-left: 102px !important;
+        padding-right: 10px !important;
+    }
+/******************RETAIL************************/
+
+    #retail h1{
+        font-size: 30pt;
+    }    
+    .number-retail{
+        font-size: 150pt;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+    .img-retail {              
+        height: 500px;        
+    }
+      #retail .red-divider {
+        padding-left: 73px !important;
+        padding-right: 30px !important;
+        margin-top: 8%;
+    }
+/*************************CONTACT**************************/
+    .small-push-left {
+        left: 0%;
+    }
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+   
+
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 2) {     
+    
+/**************************************************************************************************/
+/*************************************MENU*********************************************************/
+/**************************************************************************************************/
+
+    .img-usher {        
+        height: 162px;          
+        margin-left: -25px;    
+        margin-top: -33px;
+    }
+    .navbar-usher{
+
+        min-height:120px!important;
+        margin-bottom:120px!important;
+        
+    }
+
+    .img-usher-menu {
+        width: 45px;        
+        height: 56px;
+    }
+    .nav-usher{
+        margin-bottom:-7px;
+    }
+    .nav-usher>li>a {
+      position: relative;
+      display: block;
+      padding: 10px 1px!important;
+    }
+    .menu-label{
+        background-color: rgb(41,40,41);
+        color:white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 3.7pt;
+        line-height: 13px;
+        text-rendering: auto;        
+    }
+
+    .menu-label-white{
+        background-color:white;
+        color:white;
+        height: 32px;
+        width: 5px;
+    }
+    .menu-label-black{
+        background-color: rgb(41,40,41);
+        color:rgb(41,40,41);
+        width:22px;
+        margin-top:2px;
+        font-size:6pt;
+        line-height:15px;        
+    }
+    .strategic-style{
+
+    }
+    .insight-style{
+
+    }
+    .brand-style{
+
+    }
+    .marketing-style{          
+         padding-left: 0px;
+    }
+    .relation-style{        
+        padding-left: 0px;
+    }
+    .comm-style{
+    
+     padding-left: 0px;
+    }
+    .retail-style {
+        margin-left: 4px;
+    }
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+    .comm-style{
+         margin-left: 4px;
+    }
+    .relation-style{
+         margin-left: 4px;
+    }
+    .marketing-style{
+        margin-left: 0px;
+    }
+    .red-square{
+      
+      height: 31px;
+      width: 36px;
+    }
+    
+    .menu-bar{
+
+    background-color: rgb(41,40,41);   
+    height: 32px;
+    display: flex;
+    float:right;
+    width: 422px;
+    }
+
+
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+
+    .main section.page1 .page_container h1 {
+        font-weight: 700;
+        text-align: left;
+    }
+
+
+    .number {
+        font-weight: 700;
+        font-size: 70pt;
+        margin-left:50px;
+    }
+   
+    .xs-margin-top{
+        margin-top:100px;
+    }
+   
+    #about p{
+        font-size:12pt;
+    }
+
+    #about h1 {
+        font-size: 49pt;
+        letter-spacing: 0px;
+    }
+    
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 56px !important;
+        padding-right: 1px !important;
+    }
+
+  
+
+    #about .img-resolution {
+        height: 400px;
+        margin-top:200px;
+    }
+
+  
+
+
+/************************strategic************************/
+
+ #strategic-font{
+        font-size: 13pt;
+    }
+     .strategic-number-pull {
+        margin-top: -21%;
+    }
+    .strategic-rightside {
+        display: flex;
+        display: inline-flexbox;
+        margin-top: -33px;
+    }
+    .strategic-largeNumber-pull {
+        margin-top: 0px;
+    }
+    .img-strategic {
+        height: 500px;
+    }
+
+    .main section.page1 .page_container h1 {
+        letter-spacing: 9px;
+        font-weight: 700;
+        font-size: 13pt;
+        text-align: left;
+    }
+    .img-strategic-reddots {
+        height: 150px;
+    }
+    .img-strategic-reddots-pull {
+        margin-top: -85%;
+    }
+
+
+    #strategic .red-divider {
+        padding-left: 27px !important;
+        padding-right: 1px !important;
+        margin-top: 3%;
+    }
+     .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 100px;
+    }    
+   
+/*******************INSIGHT***************************/
+
+    .img-resolution-insight {
+        height: 327px;
+        margin-top: 50px;
+    }  
+  
+ 
+    .insight-left {
+        margin-left: -16vw !important;
+    }
+    .insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+    .insight-number .number {
+        font-weight: 100;
+        font-size: 175pt;
+    }
+      #insight .red-divider {
+        padding-left: 39px !important;
+        padding-right: 1px !important;
+        background-color: rgb(217,56,50);
+        margin-top: 2%;
+        margin-left: 60px;
+    }
+    #insight-font{
+        font-size: 12pt;
+    }
+    
+    .number-insight{
+        font-weight: 100;
+        font-size: 70pt;
+        margin-left: 87px;
+    }
+/******************************BRAND***************************/
+    .text-brand {
+        margin-top: -65px;
+    }
+    .img-brand {
+        height: 535px;
+    }
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+    .number-brand{
+        font-size:125pt;
+        margin-left:20px;
+    }
+    .img-brand2 {
+        height: 535px;
+    }
+    .text-brand{
+        margin-top:-65px;
+    }
+    #brand-font{
+        font-size:18pt;
+    }
+    #brand h1 {
+        letter-spacing: 0px;
+    }
+
+/******************************Marketing*************************/
+
+    .number-manag {
+        font-weight: 700;
+        font-size: 70pt;
+        text-align: left;
+        margin-left: 86px;
+    }
+      .marketing-image-2 {        
+        height: 220px;
+    }
+    #marketing-font {
+        font-size: 13pt;
+    }
+    #management .red-divider {
+        padding-left: 48px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 2%;
+        margin-left: 27px;
+    }
+/*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top:150px;
+    }
+    #relation-letter-spacing{
+        letter-spacing:0px;
+    }
+   .img-relation{
+       height: 420px;
+   }
+    #relation .red-divider {
+        padding-left: 26px !important;
+        padding-right: 1px !important;    
+    }
+    .number-relation{
+        font-weight: 100;
+        font-size: 70pt;
+        margin-left: 45px;
+    }
+    #relation-font{
+        font-size: 13pt;
+    }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing{
+        letter-spacing:0px;
+        font-size: 27pt
+    }
+    
+    .number-comm {
+        font-weight: 700;
+        font-size: 70pt;
+        text-align: left;
+        margin-left: 192px;
+    }
+    .comm-left{
+        margin-left: -230px;
+        margin-top: -60px;
+    }
+    
+    #comm-font{
+       margin-top:10px;
+       font-size:15pt;
+    }   
+     .comm1 {
+        margin-left: -30px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+    .comm2 {
+        background-clip: border-box;
+        margin-left: 162px;
+        padding-left: 4px !important;
+        padding-right: 1px !important;
+    }
+    #comm-img{
+        margin-top:0px;
+        margin-left:49px;
+    }
+
+/******************RETAIL************************/
+
+    #retail h1{
+        font-size: 20pt;
+    }    
+    .number-retail{
+        font-size: 80pt;
+        margin-left:40px;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+    .img-retail {              
+        height: 500px;        
+    }
+    #retail .red-divider {
+        padding-left: 20px !important;
+        padding-right: 6px !important;
+        margin-top: 6%;
+    }
+     #retail-font{
+         font-size: 13pt;
+     }
+     #retail .number{
+         font-size: 60pt;
+     }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+    
+/**************************************************************************************************/
+/*************************************MENU*********************************************************/
+/**************************************************************************************************/
+
+    .img-usher {        
+        height: 165px;          
+        margin-left: -25px;    
+        margin-top: -33px;
+    }
+    .navbar-usher{
+
+        min-height:120px!important;
+        margin-bottom:120px!important;
+        
+    }
+
+    .img-usher-menu {
+        width: 64px;        
+        height: 65px;
+    }
+    .nav-usher{
+        margin-bottom:-7px;
+    }
+    .nav-usher>li>a {
+      position: relative;
+      display: block;
+      padding: 10px 6px!important;
+    }
+    .menu-label{
+        background-color: rgb(41,40,41);
+        color:white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 5.7pt;
+        line-height: 13px;
+        text-rendering: auto;        
+    }
+
+    .menu-label-white{
+        background-color:white;
+        color:white;
+        height: 32px;
+        width: 5px;
+    }
+    .menu-label-black{
+        background-color: rgb(41,40,41);
+        color:rgb(41,40,41);
+        width:22px;
+        margin-top:2px;
+        font-size:6pt;
+        line-height:15px;        
+    }
+    .strategic-style{
+
+    }
+    .insight-style{
+
+    }
+    .brand-style{
+
+    }
+    .marketing-style{
+          font-size: 6pt;
+         padding-left: 6px;
+    }
+    .relation-style{
+          font-size: 5.7pt;
+        padding-left: 7px;
+    }
+    .comm-style{
+          font-size: 5pt;
+     padding-left: 6.1px;
+    }
+    .retail-style {
+        margin-left: 4px;
+    }
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+    .comm-style{
+         margin-left: 4px;
+    }
+    .relation-style{
+         margin-left: 4px;
+    }
+    .marketing-style{
+        margin-left: 0px;
+    }
+    .red-square{
+      
+      height: 32px;
+    }
+    
+    .menu-bar{
+
+    background-color: rgb(41,40,41);   
+    height: 32px;
+    display: flex;
+    float:right;
+	    width: 67.7%;
+    margin-right: 0.4%;
+    }
+
+
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+
+    .main section.page1 .page_container h1 {
+        font-weight: 700;
+        text-align: left;
+    }
+
+
+    .number {
+        font-weight: 700;
+        font-size: 115pt;
+        margin-left:50px;
+    }
+  
+
+    #about p{
+        font-size:12pt;
+    }
+
+    #about h1 {
+        font-size: 50pt;
+        letter-spacing: 9px;
+    }
+  
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+    }
+      
+   
+
+    #about .img-resolution {
+        height: 500px;
+    }
+
+    
+
+  
+  
+/************************strategic************************/
+    .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 50px;
+    }
+    .strategic-number-pull {
+        margin-top: -21%;
+    }
+    #strategic .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+        padding-bottom: 370px;
+        margin-top: 3%;
+    }
+     
+        .strategic-rightside{
+            display:flex;
+            display:inline-flexbox;
+            margin-top:-33px;
+        }
+        .strategic-largeNumber-pull {
+          margin-top: 0px; 
+        }
+    .img-strategic {
+        height: 500px;
+    }
+
+        .main section.page1 .page_container h1 {
+            letter-spacing: 9px;
+            font-weight: 700;
+            font-size: 13pt;
+            text-align: left;
+        }
+    .img-strategic-reddots {
+        height: 150px;
+    }
+        .img-strategic-reddots-pull{
+            margin-top:-85%;
+        }
+       
+
+/*******************INSIGHT***************************/
+
+.insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+    .insight-number .number {
+        font-weight: 100;
+        font-size: 175pt;
+    }
+      .img-resolution-insight {
+        height: 444px;
+        margin-top: 50px;
+    }  
+      .insight-left {
+        margin-left: -16vw !important;
+    }
+       #insight .red-divider {
+        padding-left: 101px !important;
+        padding-right: 1px !important;
+        background-color: rgb(217,56,50);
+        margin-top: 2%;
+        margin-left: 60px;
+    }
+
+
+/******************************BRAND***************************/
+
+    .img-brand {
+        height: 535px;
+    }
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+    .number-brand{
+        font-size:125pt;
+        margin-top:-60px;
+    }
+    .img-brand2 {
+        height: 535px;
+    }
+    .text-brand{
+        margin-top:-65px;
+    }
+      #brand h1 {
+        letter-spacing: 0px;
+    }                      
+
+/**********************MARKETING**********************/
+
+
+    .marketing-image-2 {        
+        height: 220px;
+    }      
+        #management .red-divider {
+        padding-left: 101px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 2%;
+        margin-left: 27px;
+    }
+
+/*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top:150px;
+    }
+    #relation-letter-spacing{
+        letter-spacing:0px;
+    }
+   .number-relation{
+       font-size:180pt;       
+   }
+   #relation .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+        padding-bottom: 467px;
+    }
+
+    #relation-font{
+        font-size: 12pt;
+    }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing{
+        letter-spacing:0px;
+        font-size: 27pt
+    }
+    
+    .number-comm {
+        font-weight: 700;
+        font-size: 120pt;
+        text-align: left;
+        margin-top: -42px;
+        margin-left: -27px;
+    }
+    .comm-left{
+        margin-left: -230px;
+        margin-top: -60px;
+    }
+    
+    #comm-font{
+       margin-top:10px;
+    }   
+      .comm1 {
+        margin-left: -42px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+    .comm2 {
+        margin-left: 106px;
+        padding-left: 102px !important;
+        padding-right: 10px !important;
+    }
+/******************RETAIL************************/
+
+    #retail h1{
+        font-size: 30pt;
+    }    
+    .number-retail{
+        font-size: 150pt;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+    .img-retail {              
+        height: 500px;
+        margin-top: 50px;
+    }
+      #retail .red-divider {
+        padding-left: 73px !important;
+        padding-right: 30px !important;
+        margin-top: 8%;
+    }
+/*************************CONTACT**************************/
+    .small-push-left {
+        left: 0%;
+    }
+}
+
+
+/* ----------- Galaxy Tab 10.1 ----------- */
+
+/* Portrait and Landscape */
+@media 
+  (min-device-width: 800px) 
+  and (max-device-width: 1280px) {
+
+}
+
+/* Portrait */
+@media 
+  (max-device-width: 800px) 
+  and (orientation: portrait) { 
+
+}
+
+/* Landscape */
+@media 
+  (max-device-width: 1280px) 
+  and (orientation: landscape) { 
+
+}
+
+
+/* ----------- Asus Nexus 7 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) {
+
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) 
+  and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 601px) 
+  and (device-height: 906px) 
+  and (-webkit-min-device-pixel-ratio: 1.331) 
+  and (-webkit-max-device-pixel-ratio: 1.332) 
+  and (orientation: landscape) {
+
+}
+
+
+/* ----------- Kindle Fire HD 7" ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 1280px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 1280px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: portrait) {
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 800px) 
+  and (max-device-width: 1280px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: landscape) {
+
+}
+
+/* ----------- Kindle Fire HD 8.9" ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: portrait) {
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) 
+  and (orientation: landscape) {
+
+}
+
+
+/* ----------- Google Nexus 7 ----------- */
+
+/* Landscape  */
+@media only screen 
+    and (device-width: 960px) 
+    and (device-height: 600px)
+    and (-webkit-device-pixel-ratio: 2)
+    and (orientation: landscape){
+
+    /**************************************************************************************************/
+    /*************************************MENU*********************************************************/
+    /**************************************************************************************************/
+
+    .img-usher {
+        height: 165px;
+        margin-left: -25px;
+        margin-top: -33px;
+    }
+
+    .navbar-usher {
+        min-height: 120px !important;
+        margin-bottom: 120px !important;
+    }
+
+    .img-usher-menu {
+        width: 64px;
+        height: 65px;
+    }
+
+    .nav-usher {
+        margin-bottom: -7px;
+    }
+
+        .nav-usher > li > a {
+            position: relative;
+            display: block;
+            padding: 10px 1px;
+        }
+
+    .menu-label {
+        background-color: rgb(41,40,41);
+        color: white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 5.7pt;
+        line-height: 13px;
+        text-rendering: auto;
+    }
+
+    .menu-label-white {
+        background-color: white;
+        color: white;
+        height: 32px;
+        width: 5px;
+    }
+
+    .menu-label-black {
+        background-color: rgb(41,40,41);
+        color: rgb(41,40,41);
+        width: 22px;
+        margin-top: 2px;
+        font-size: 6pt;
+        line-height: 15px;
+    }
+
+    .strategic-style {
+    }
+
+    .insight-style {
+    }
+
+    .brand-style {
+    }
+
+    .marketing-style {
+        font-size: 6pt;
+        padding-left: 6px;
+    }
+
+    .relation-style {
+        font-size: 5.7pt;
+        padding-left: 7px;
+    }
+
+    .comm-style {
+        font-size: 5pt;
+        padding-left: 6.1px;
+    }
+
+    .retail-style {
+        margin-left: 4px;
+    }
+
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+
+    .comm-style {
+        margin-left: 4px;
+    }
+
+    .relation-style {
+        margin-left: 4px;
+    }
+
+    .marketing-style {
+        margin-left: 0px;
+    }
+
+    .red-square {
+        height: 32px;
+    }
+
+    .menu-bar {
+        background-color: rgb(41,40,41);
+        height: 32px;
+        display: flex;
+        float: right;
+    }
+
+
+    /**************************************************************************************************/
+    /**************************************************************************************************/
+    /**************************************************************************************************/
+    /**************************************************************************************************/
+    /**************************************************************************************************/
+    /**************************************************************************************************/
+
+    .main section.page1 .page_container h1 {
+        font-weight: 700;
+        text-align: left;
+    }
+
+
+    .number {
+        font-weight: 700;
+        font-size: 115pt;
+        margin-left: 0px;
+    }
+
+
+    #about p {
+        font-size: 8pt;
+    }
+
+    #about h1 {
+        font-size: 49pt;
+        letter-spacing: 0px;
+    }
+
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 56px !important;
+        padding-right: 1px !important;
+    }
+
+
+
+    #about .img-resolution {
+        height: 450px;
+    }
+
+
+
+
+
+    /************************strategic************************/
+    .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 0px;
+    }
+
+    .strategic-number-pull {
+        margin-top: -21%;
+    }
+
+    #strategic .red-divider {
+        padding-left: 25px !important;
+        padding-right: 1px !important;
+        padding-bottom: 300px;
+        margin-top: 3%;
+    }
+
+    #strategic-font {
+        font-size: 9pt;
+    }
+
+    #strategic h1 {
+        letter-spacing: 6px;
+    }
+
+    .strategic-rightside {
+        display: flex;
+        display: inline-flexbox;
+        margin-top: -33px;
+    }
+
+    .strategic-largeNumber-pull {
+        margin-top: 0px;
+    }
+
+    .img-strategic {
+        height: 450px;
+    }
+
+    .main section.page1 .page_container h1 {
+        letter-spacing: 9px;
+        font-weight: 700;
+        font-size: 13pt;
+        text-align: left;
+    }
+
+    .img-strategic-reddots {
+        height: 150px;
+    }
+
+    .img-strategic-reddots-pull {
+        margin-top: -85%;
+    }
+
+
+    /*******************INSIGHT***************************/
+
+    .insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+
+        .insight-number .number {
+            font-weight: 100;
+            font-size: 175pt;
+        }
+
+    .img-resolution-insight {
+        height: 400px;
+        margin-top: 0px;
+    }
+
+    .insight-left {
+        margin-left: -16vw !important;
+    }
+
+    #insight .red-divider {
+        padding-left: 80px !important;
+        padding-right: 1px !important;
+        background-color: rgb(217,56,50);
+        margin-top: 2%;
+        margin-left: 0px;
+    }
+
+    .number-insight{
+        font-weight: 100;
+        font-size: 70pt;
+        margin-left: 87px;
+    }
+
+    #insight-font {
+        font-size: 8pt;
+    }
+
+
+    /******************************BRAND***************************/
+
+    .img-brand {
+        height: 535px;
+    }
+
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+
+    .number-brand {
+        font-size: 125pt;
+        margin-top: -60px;
+    }
+
+    .img-brand2 {
+        height: 535px;
+    }
+
+    .text-brand {
+        margin-top: -65px;
+    }
+
+    #brand h1 {
+        letter-spacing: 0px;
+    }
+
+    /**********************MARKETING**********************/
+
+
+    .marketing-image-2 {
+        height: 220px;
+    }
+
+    #management .red-divider {
+        padding-left: 81px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 2%;
+        margin-left: -44px;
+    }
+    .number-manag {
+        font-weight: 700;
+        font-size: 70pt;
+        text-align: left;
+        margin-left: 40px;
+    }
+    #management h1{
+        letter-spacing: 4px;
+    }
+
+    /*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top: 150px;
+    }
+
+    #relation-letter-spacing {
+        letter-spacing: 0px;
+    }
+
+    .number-relation {
+        font-size: 130pt;
+    }
+
+    #relation .red-divider {
+        padding-left: 26px !important;
+        padding-right: 1px !important;
+        padding-bottom: 298px;
+    }
+
+    #relation-font {
+        font-size: 10pt;
+    }
+    .img-relation{
+       height: 420px;
+   }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing {
+        letter-spacing: 0px;
+        font-size: 27pt;
+    }
+
+    .number-comm {
+        font-weight: 700;
+        font-size: 120pt;
+        text-align: left;
+        margin-top: -42px;
+        margin-left: -27px;
+    }
+
+    .comm-left {
+        margin-left: -424px;
+        margin-top: 0px;
+    }
+
+    #comm-font {
+        margin-top: 10px;
+    }
+
+    .comm1 {
+        margin-left: -45px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+
+    .comm2 {
+        margin-left: 106px;
+        padding-left: 102px !important;
+        padding-right: 10px !important;
+    }
+    /******************RETAIL************************/
+
+    #retail h1 {
+        font-size: 22pt;
+        margin-left: 14px;
+    }
+
+    .number-retail {
+        font-size: 117pt;
+        margin-left: -23px;
+    }
+    #retail-font{
+        font-size: 12pt;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+
+    .img-retail {
+        height: 400px;
+        margin-top: 25px;
+        margin-left: 150px;
+    }
+
+    #retail .red-divider {
+        padding-left: 1px !important;
+        padding-right: 1px !important;
+        margin-top: 8%;
+        background-clip: border-box;
+        width: 4px;
+        margin-right: 5px;
+    }
+    /*************************CONTACT**************************/
+    .small-push-left {
+        left: 0%;
+    }
+}
+
+@media only screen
+    and (device-height: 960px)
+    and (device-width: 600px)
+    and (-webkit-device-pixel-ratio: 2){     
+    
+/**************************************************************************************************/
+/*************************************MENU*********************************************************/
+/**************************************************************************************************/
+ 
+
+  .img-usher {
+        height: 60px;
+        margin-left: -25px;
+        margin-top: -9px;
+    }
+
+    .menu-bar {
+        display: none !important;
+    }
+    .narrowView{
+        display:block!important;
+        text-align:center;
+    }
+    .contact-style{
+        margin-left:120px;
+    }
+    .responsive:before {
+        content: attr(data-alt);
+    }
+    .responsive img {
+        display: none;
+    }
+
+    .navbar-usher{
+
+        min-height:60px!important;
+        margin-bottom:90px!important;
+        
+    }
+
+    .img-usher-menu {
+        width: 45px;        
+        height: 56px;
+    }
+
+    
+    .nav-usher li{
+    background-color:white;
+    border-bottom: 2px solid rgb(217,56,50);    
+    }
+   
+    .nav-usher{
+        margin-bottom:0px;
+    }
+    .nav-usher>li>a {
+      position: relative;
+      display: block;
+      padding: 5.3px 1px!important;
+    }
+    .menu-label{
+        background-color: rgb(41,40,41);
+        color:white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 3.7pt;
+        line-height: 13px;
+        text-rendering: auto;        
+    }
+
+    .menu-label-white{
+        background-color:white;
+        color:white;
+        height: 32px;
+        width: 5px;
+    }
+    .menu-label-black{
+        background-color: rgb(41,40,41);
+        color:rgb(41,40,41);
+        width:22px;
+        margin-top:2px;
+        font-size:6pt;
+        line-height:15px;        
+    }
+    .strategic-style{
+
+    }
+    .insight-style{
+
+    }
+    .brand-style{
+
+    }
+    .marketing-style{          
+         padding-left: 0px;
+    }
+    .relation-style{        
+        padding-left: 0px;
+    }
+    .comm-style{
+    
+     padding-left: 0px;
+    }
+    .retail-style {
+        margin-left: 4px;
+    }
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 170px;
+    }
+    .comm-style{
+         margin-left: 4px;
+    }
+    .relation-style{
+         margin-left: 4px;
+    }
+    .marketing-style{
+        margin-left: 0px;
+    }
+    .red-square{
+      
+      height: 31px;
+      width: 36px;
+    }
+    
+    .menu-bar{
+
+    background-color: rgb(41,40,41);   
+    height: 32px;
+    display: flex;
+    float:right;
+    width: 422px;
+    }
+
+
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+
+   .main section.page1 .page_container h1 {
+        letter-spacing: 4px;
+        font-weight: 700;
+        font-size: 17pt;
+        text-align: left;
+    }
+
+    .number {
+        font-weight: 700;
+        font-size: 40pt;
+        margin-left: 2px;
+    }
+       
+    #strategic .xs-margin-top{
+        margin-top:40px;
+    }
+    #insight .xs-margin-top{
+        margin-top:10px;
+    }
+    #relation .xs-margin-top{
+        margin-top: 50px;
+    }
+    #comm .xs-margin-top{
+        margin-top: 60px;
+    }
+   
+    #about p{
+        font-size:14pt;
+    }
+
+    #about h1 {
+        font-size: 17pt;
+        letter-spacing: 0px;
+    }
+    
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 46px !important;
+        padding-right: 1px !important;
+        margin-left:-40px;
+    }
+
+  
+
+    #about .img-resolution {
+        height: 400px;
+        
+    }
+
+  
+
+
+/************************strategic************************/
+
+ #strategic-font{
+        font-size: 13pt;
+    }
+     .strategic-number-pull {
+        margin-top: -21%;
+    }
+    .strategic-rightside {
+        display: flex;
+        display: inline-flexbox;
+        margin-top: -33px;
+    }
+    .strategic-largeNumber-pull {
+        margin-top: 0px;
+    }
+    .img-strategic {
+        height: 400px;        
+    }
+   
+    .img-strategic-reddots {
+        height: 150px;
+    }
+    .img-strategic-reddots-pull {
+        margin-top: -85%;
+    }
+
+
+    #strategic .red-divider {
+        padding-left: 45px !important;
+        padding-right: 1px !important;
+        margin-top: 0%;
+        margin-left: -38px;
+    }
+     .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 100px;
+    }    
+   
+/*******************INSIGHT***************************/
+
+    .img-resolution-insight {
+        height: 400px;        
+    }  
+  
+ 
+    .insight-left {
+        margin-left: -16vw !important;
+    }
+    .insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+    .insight-number .number {
+        font-weight: 100;
+        font-size: 175pt;
+    }
+        #insight .red-divider {
+            padding-left: 51px !important;
+            padding-right: 1px !important;
+            margin-top: 1%;
+            margin-left: 37px;
+        }
+    #insight-font{
+        font-size: 13pt;
+    }
+    
+    .number-insight{
+        font-weight: 100;
+        font-size: 40pt;
+        margin-left: 90px;
+    }
+/******************************BRAND***************************/
+    .text-brand {
+        margin-top: -65px;
+    }
+    .img-brand {
+        height: 535px;
+    }
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+    .number-brand{
+        font-size:40pt;
+        margin-left:20px;
+    }
+    .img-brand2 {
+        height: 535px;
+    }
+    .text-brand{
+        margin-top:-65px;
+    }
+    #brand-font{
+        font-size:18pt;
+        padding-top:10px;
+    }
+    #brand h1 {
+        letter-spacing: 0px;
+        font-size: 20pt;
+        margin-left: 25px;
+        font-weight: 700;
+    }
+
+/******************************Marketing*************************/
+
+    .number-manag {
+        font-weight: 100;
+        font-size: 36pt;
+        text-align: left;
+        margin-left: 88px;
+    }
+      .marketing-image-2 {        
+        height: 220px;
+    }
+    #marketing-font {
+        font-size: 14pt;
+    }
+    #management h1{
+        font-size: 18pt;
+        font-weight: 700;
+    }
+    #management .red-divider {
+        padding-left: 51px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 1%;
+        margin-left: 32px;
+    }
+    #img-marketing{
+        height: 400px;
+    }
+/*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top:150px;
+    }
+    #relation-letter-spacing{
+        letter-spacing:7px;
+    }
+   .img-relation{
+       height: 400px;
+   }
+    #relation .red-divider {
+        padding-left: 46px !important;
+        padding-right: 1px !important;
+        margin-left: -38px;
+    }
+    .number-relation{
+        font-weight: 100;
+        font-size: 40pt;
+        margin-left: 0px;
+    }
+    #relation-font{
+        font-size: 14pt;
+    }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing{
+        letter-spacing:0px;
+        font-size: 27pt
+    }
+    
+    .number-comm {
+        font-weight: 100;
+        font-size: 40pt;
+        text-align: left;
+        margin-left: 210px;
+    }
+    .comm-left{
+        margin-left: -230px;
+        margin-top: -60px;
+    }
+    
+    #comm-font{
+       margin-top:10px;
+       font-size:14pt;
+    }   
+     .comm1 {
+        margin-left: -30px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+    .comm2 {
+        margin-left: 135px;
+        padding-left: 61px !important;
+        padding-right: 1px !important;
+    }
+    #comm-img{
+        margin-top:-10px;
+        height:400px;
+    }
+
+/******************RETAIL************************/
+
+    #retail h1{
+        font-size: 18pt;
+        font-weight: 700;
+    }    
+    .number-retail{
+
+        font-size: 40pt;
+        margin-left: -5px;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+    .img-retail {              
+        height: 400px;                
+    }
+    #retail .red-divider {
+        padding-left: 41px !important;
+        padding-right: 6px !important;
+        margin-top: 3%;
+        margin-left: -41px;
+    }
+     #retail-font{
+         font-size: 14pt;
+     }
+     #retail .number{
+         font-size: 120pt;
+     }
+
+/***************************CONTACTS***************************/
+        .panel-push {
+            margin-top: 20px;
+        }
+    .map {
+        height: 300px;
+        width: 90%;
+        margin-left: 30px;
+        margin-top: 25px;
+    }
+    .location{
+        text-align:left;
+        margin-left:10px;
+    }
+}
+
+
+/* ----------- Google Nexus 4 ----------- */
+
+/* Portrait  */
+@media (width: 384px) and (height: 640px)
+and (-webkit-min-device-pixel-ratio: 2){
+  
+}
+
+/* ----------- LG Optimus L70 ----------- */
+
+/* Portrait  */
+@media (width: 384px) and (height: 640px)
+and (-webkit-min-device-pixel-ratio: 1.25){
+
+  
+}
+
+
+/* ----------- Blackberry playbook ----------- */
+
+
+/* Landscape  */
+@media only screen 
+    and (device-width: 1024px) 
+    and (device-height: 600px) 
+    and (-webkit-device-pixel-ratio: 1)
+    and (orientation: landscape){      
+    
+/**************************************************************************************************/
+/*************************************MENU*********************************************************/
+/**************************************************************************************************/
+
+    .img-usher {        
+        height: 165px;          
+        margin-left: -25px;    
+        margin-top: -33px;
+    }
+    .navbar-usher{
+
+        min-height:120px!important;
+        margin-bottom:120px!important;
+        
+    }
+
+    .img-usher-menu {
+        width: 64px;        
+        height: 65px;
+    }
+    .nav-usher{
+        margin-bottom:-7px;
+    }
+    .nav-usher>li>a {
+      position: relative;
+      display: block;
+      padding: 10px 6px!important;
+    }
+    .menu-label{
+        background-color: rgb(41,40,41);
+        color:white;
+        width: 65.2px;
+        margin-top: 2px;
+        font-size: 5.7pt;
+        line-height: 13px;
+        text-rendering: auto;        
+    }
+
+    .menu-label-white{
+        background-color:white;
+        color:white;
+        height: 32px;
+        width: 5px;
+    }
+    .menu-label-black{
+        background-color: rgb(41,40,41);
+        color:rgb(41,40,41);
+        width:22px;
+        margin-top:2px;
+        font-size:6pt;
+        line-height:15px;        
+    }
+    .strategic-style{
+
+    }
+    .insight-style{
+
+    }
+    .brand-style{
+
+    }
+    .marketing-style{
+          font-size: 6pt;
+         padding-left: 6px;
+    }
+    .relation-style{
+          font-size: 5.7pt;
+        padding-left: 7px;
+    }
+    .comm-style{
+          font-size: 5pt;
+     padding-left: 6.1px;
+    }
+    .retail-style {
+        margin-left: 4px;
+    }
+    .contact-style img {
+        margin-top: 1px;
+        margin-left: 5px;
+    }
+    .comm-style{
+         margin-left: 4px;
+    }
+    .relation-style{
+         margin-left: 4px;
+    }
+    .marketing-style{
+        margin-left: 0px;
+    }
+    .red-square{
+      
+      height: 32px;
+    }
+    
+    .menu-bar{
+
+    background-color: rgb(41,40,41);   
+    height: 32px;
+    display: flex;
+    float:right;
+    }
+
+
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+/**************************************************************************************************/
+
+    .main section.page1 .page_container h1 {
+        font-weight: 700;
+        text-align: left;
+    }
+
+
+    .number {
+        font-weight: 700;
+        font-size: 115pt;
+        margin-left:50px;
+    }
+  
+
+    #about p{
+        font-size:10pt;
+    }
+
+    #about h1 {
+        font-size: 50pt;
+        letter-spacing: 9px;
+    }
+  
+
+    .red-divider {
+        background-clip: content-box;
+        background-color: rgb(217,56,50);
+    }
+
+    #about .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+    }
+      
+   
+
+    #about .img-resolution {
+        height: 450px;
+    }
+
+    
+
+  
+  
+/************************strategic************************/
+    .number-strategic {
+        font-weight: 100;
+        font-size: 230pt;
+        margin-top: 0px;    
+    }
+    .strategic-number-pull {
+        margin-top: -21%;
+    }
+    #strategic .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+        padding-bottom: 370px;
+        margin-top: 3%;
+    }
+    #strategic-font{
+        font-size: 9pt;
+    }
+    #strategic h1{
+        letter-spacing: 6px;
+    }
+     
+        .strategic-rightside{
+            display:flex;
+            display:inline-flexbox;
+            margin-top:-33px;
+        }
+        .strategic-largeNumber-pull {
+          margin-top: 0px; 
+        }
+    .img-strategic {
+        height: 450px;
+    }
+
+        .main section.page1 .page_container h1 {
+            letter-spacing: 9px;
+            font-weight: 700;
+            font-size: 23pt;
+            text-align: left;
+        }
+    .img-strategic-reddots {
+        height: 150px;
+    }
+        .img-strategic-reddots-pull{
+            margin-top:-85%;
+        }
+       
+
+/*******************INSIGHT***************************/
+
+.insight-number {
+        text-align: left;
+        margin-left: -75px;
+        vertical-align: top;
+        margin-top: -90px;
+        margin-bottom: -95px;
+    }
+    .insight-number .number {
+        font-weight: 100;
+        font-size: 175pt;
+    }
+      .img-resolution-insight {
+        height: 400px;
+        margin-top: 10px;
+    }  
+      .insight-left {
+        margin-left: -16vw !important;
+    }
+       #insight .red-divider {
+        padding-left: 101px !important;
+        padding-right: 1px !important;
+        background-color: rgb(217,56,50);
+        margin-top: 2%;
+        margin-left: 60px;
+    }
+       #insight-font{
+           font-size:8pt;
+       }
+
+
+/******************************BRAND***************************/
+
+    .img-brand {
+        height: 535px;
+    }
+    .img-brandlines {
+        height: 115px;
+        width: 215px;
+    }
+    .number-brand{
+        font-size:125pt;
+        margin-top:-60px;
+    }
+    .img-brand2 {
+        height: 535px;
+    }
+    .text-brand{
+        margin-top:-65px;
+    }
+      #brand h1 {
+        letter-spacing: 8px;
+    }
+      #brand-font{
+          font-size: 8pt;
+      }                    
+        
+
+/**********************MARKETING**********************/
+
+
+    .marketing-image-2 {        
+        height: 190px;
+    }      
+        #management .red-divider {
+        padding-left: 101px !important;
+        padding-right: 1px !important;
+        padding-bottom: 13px;
+        margin-top: 2%;
+        margin-left: 27px;
+    }
+
+/*************RELATIONSHIP********************/
+
+    .relation-largeNumber-pull {
+        margin-top:150px;
+    }
+    #relation-letter-spacing{
+        letter-spacing:0px;
+    }
+   .number-relation{
+       font-size:180pt;       
+   }
+   #relation .red-divider {
+        padding-left: 35px !important;
+        padding-right: 1px !important;
+        padding-bottom: 390px;
+    }
+
+    #relation-font{
+        font-size: 10pt;
+    }
+
+    /***************COMMUNICATION**********************/
+
+    #comm-letter-spacing{
+        letter-spacing:0px;
+        font-size: 27pt
+    }
+    
+    .number-comm {
+        font-weight: 700;
+        font-size: 120pt;
+        text-align: left;
+        margin-top: -42px;
+        margin-left: -27px;
+    }
+    .comm-left{
+        margin-left: -230px;
+        margin-top: -60px;
+    }
+    
+    #comm-font{
+       margin-top:10px;
+    }   
+      .comm1 {
+        margin-left: -45px;
+        padding-left: 37px !important;
+        padding-right: 1px !important;
+    }
+    .comm2 {
+        margin-left: 106px;
+        padding-left: 102px !important;
+        padding-right: 10px !important;
+    }
+/******************RETAIL************************/
+
+    #retail h1{
+        font-size: 22pt;
+    }    
+    .number-retail{
+        font-size: 117pt;
+    }
+
+    .pic2-retail {
+        height: 160px;
+        margin-top: 55px;
+    }
+    .img-retail {              
+        height: 400px;
+        margin-top: 50px;
+    }
+      #retail .red-divider {
+        padding-left: 73px !important;
+        padding-right: 30px !important;
+        margin-top: 8%;
+    }
+/*************************CONTACT**************************/
+    .small-push-left {
+        left: 0%;
+    }
+}

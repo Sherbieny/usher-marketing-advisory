@@ -1,0 +1,23 @@
+﻿.navbar-default {
+  background-color: #FFFFFF!important;
+  border-color: rgb(217,56,50)!important;
+  border-bottom-width:3px!important;
+  border-bottom-style:solid!important;
+  border-top:none!important;
+  border-left:none!important;
+  border-right:none!important
+}
+
+.menu, .header, .nav-top {
+  margin-bottom: 0;
+  position: relative;
+  z-index: 10;
+}
+
+.nav-top a {
+  color: rgb(41,40,41);
+}
+
+.narrowView{
+        display:none!important;
+    }

@@ -1,0 +1,198 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Usher.master.cs" Inherits="Usher" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">    
+    <meta charset="UTF-8" />
+    <link rel="publisher" href="GOOGLE_PlUS_ACCOUNT_URL" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta name="author" content="CSHARK Studio" />
+    <link rel='shortcut icon' href='favicon.ico' type='image/x-icon' />
+
+    <!-- Edit Below -->
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css' />
+
+
+    <link href="App_Themes/UsherTheme/default.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/elusive-webfont.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/style.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/StyleSheet.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/bootstrap.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/bootstrap.min.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/sections.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/mediaQueries.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/menuStyle.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/mqGalaxy.css" rel="stylesheet" />    
+    <link href="App_Themes/UsherTheme/mqIphone.css" rel="stylesheet" />
+    <link href="App_Themes/UsherTheme/mqTablets.css" rel="stylesheet" />
+</head>
+<body>
+
+    <nav class="nav-top navbar navbar-default navbar-usher clearfix">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="Home.aspx">
+                    <img src="Images/Usher-logo-500W.png" alt="Usher Marketing Advisory Logo" class="img-usher" />
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse wideView" id="collapse-1">
+
+                <ul class="nav navbar-nav navbar-right nav-usher">
+                    <li><a href="Home.aspx" data-target="0" data-alt="About" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-1.png" runat="server" alt="Menu_Icon_1" /></a></li>
+                    <li><a href="Strategic-Marketing-Planning.aspx" data-target="1" data-alt="Strategic Marketing" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-2.png" runat="server" alt="Menu_Icon_2" /></a></li>
+                    <li><a href="Insight-Marketing.aspx" data-target="2" data-alt="Insight Marketing" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-3.png" runat="server" alt="Menu_Icon_3" /></a></li>
+                    <li><a href="Brand-Management.aspx" data-target="3" data-alt="Brand Management" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-4.png" runat="server" alt="Menu_Icon_4" /></a></li>
+                    <li><a href="Marketing-Management.aspx" data-target="4" data-alt="Marketing Management" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-5.png" runat="server" alt="Menu_Icon_5" /></a></li>
+                    <li><a href="Relationship-Marketing.aspx" data-target="5" data-alt="Relationship Marketing" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-6.png" runat="server" alt="Menu_Icon_6" /></a></li>
+                    <li><a href="Communication-Planning.aspx" data-target="6" data-alt="Communication Planning" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-7.png" runat="server" alt="Menu_Icon_7" /></a></li>
+                    <li><a href="Retail-Management.aspx" data-target="7" data-alt="Retail Management" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-8.png" runat="server" alt="Menu_Icon_8" /></a></li>
+                    <li><a href="Contact.aspx" data-target="8" data-alt="Contact Us" class="responsive">
+                        <img class="img-usher-menu" src="~/Images/09---subject-Icon-9.png" runat="server" alt="Menu_Icon_9" /></a></li> 
+                     <li><a href="Location.aspx" data-target="9" data-alt="Location" class="responsive hidden-lg hidden-md hidden-sm"></a></li>                   
+                    <li class="narrowView"><a class="anchor-usher menu-label contact-style" href="https://www.linkedin.com/company/usher---marketing-advisory?trk=top_nav_home" target="_blank">
+                        <img src="Images/linkedin-64-black.jpg" alt="LinkedIn_Icon"/></a></li>
+
+                </ul>
+            </div>
+            <div class="menu-bar wideView">
+                <img class="red-square" src="Images/010---shapes-Square.png" alt="Red_Square" />
+                <label class="menu-label-white">ss</label>
+                <label class="menu-label-black"></label>
+                 <a class="anchor-usher menu-label strategic-style" href="Strategic-Marketing-Planning.aspx" data-target="1">Strategic Marketing</a>
+                <a class="anchor-usher menu-label insight-style" href="Insight-Marketing.aspx" data-target="2">Insight Marketing</a>
+                <a class="anchor-usher menu-label brand-style" href="Brand-Management.aspx" data-target="3">Brand Management</a>
+                <a class="anchor-usher menu-label marketing-style" href="Marketing-Management.aspx" data-target="4">Marketing Management</a>
+                <a class="anchor-usher menu-label relation-style" href="Relationship-Marketing.aspx" data-target="5">Relationship Marketing</a>
+                <a class="anchor-usher menu-label comm-style" href="Communication-Planning.aspx" data-target="6">Communication Planning</a>
+                <a class="anchor-usher menu-label retail-style" href="Retail-Management.aspx" data-target="7">Retail Management</a>
+                 <a class="anchor-usher menu-label contact-style" href="Contact.aspx" data-target="8">Contact <br /> Us</a>
+                <%--<a class="anchor-usher menu-label contact-style" href="https://www.linkedin.com/company/usher---marketing-advisory?trk=top_nav_home" target="_blank">
+                    <img src="Images/linkedin-64-black.jpg" alt="LinkedIn_Icon_2" /></a>--%>
+
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <div class="main">
+        <div>
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+			
+			
+        <div class="usher-footer hidden-sm hidden-xs">
+            <div class="footer-1">
+                Powered By <a href="http://www.csharkstudio.com/" target="_blank">&nbsp CSHARK</a>
+            </div>
+            <div class="footer-2">
+                2015 USHER-MA &copy; &nbsp|<a href="privacypolicy.htm" target="_blank">&nbsp Privacy Policy &nbsp </a> | <a href="Home.aspx"> &nbsp About Us &nbsp </a> | <a href="Contact.aspx"> &nbsp Contact Us</a>
+            </div>
+            <div class="footer-3">
+                <a href="https://www.linkedin.com/company/usher---marketing-advisory?trk=top_nav_home" target="_blank">
+                    <img src="Images/LinkedIn-gray.png" style="width: 20px; height: 20px;" /></a>
+                <a href="https://plus.google.com/+Usher-ma/about" target="_blank">
+                    <img src="Images/google.png" style="width: 20px; height: 20px;" /></a>
+            </div>
+        </div>
+			
+        </div>
+    </div>
+
+     <!-- ////////////////////SCRIPT//////////////////////////// -->
+
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/npm.js"></script>
+    <script src="js/bootstrap-filestyle.min.js"></script>
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+
+    <script>
+
+        function initialize() {
+            var myLatlng = new google.maps.LatLng(30.09766, 31.315183);
+            var mapOptions = {
+                zoom: 15,
+                center: myLatlng
+            }
+            var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);            
+
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,                
+                title: 'USHER-MA Marketing Advisory'
+            });
+
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+
+
+    <script type="text/javascript">
+        $(".main").onepage_scroll({
+            sectionContainer: "section",
+            animationTime: 2000,
+            easing: "cubic-bezier(0.175, 0.885, 0.420, 1.310)",
+            pagination: true,
+            updateURL: true
+        });
+
+        $(".wideView > .nav-usher>li>a").click(function () {
+            $(".main").jumpTo($(this).data("target"));
+        });
+
+        $(".menu-bar>a").click(function () {
+            $(".main").jumpTo($(this).data("target"));
+        });
+
+        $(document).on('click', '.navbar-collapse.in', function (e) {
+            if ($(e.target).is('a')) {
+                $(this).collapse('hide');
+            }
+        });
+
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "LocalBusiness",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cairo",
+        "addressRegion": "",
+        "streetAddress": "7 El-Andalus Street"
+      },
+      "description": "A marketing advisory company with vast experience in Egypt.",
+      "name": "USHER Marketing Advisory",
+      "telephone": "+20 100 007 0013"
+    }
+</script>
+    
+</body>
+</html>
