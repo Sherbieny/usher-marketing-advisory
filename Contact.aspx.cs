@@ -23,13 +23,13 @@ public partial class Contact : System.Web.UI.Page
 
         // setup Smtp authentication
         System.Net.NetworkCredential credentials =
-            new System.Net.NetworkCredential("asherbeny@usher-ma.com", "sherbo79");
+            new System.Net.NetworkCredential("#####", "####");
         client.UseDefaultCredentials = false;
         client.Credentials = credentials;
 
         MailMessage msg = new MailMessage();
-        msg.From = new MailAddress("asherbeny@usher-ma.com");
-        msg.To.Add(new MailAddress("asherbeny@usher-ma.com"));
+        msg.From = new MailAddress("#######");
+        msg.To.Add(new MailAddress("#######"));
 
         msg.Subject = "Message from Usher website user";
         msg.IsBodyHtml = true;
