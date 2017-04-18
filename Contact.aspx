@@ -91,7 +91,7 @@
                                 <div>                                   
                                     <img src="Images/glyphicons_442_earphone.png" alt="Phone Number" class="icon-img" />
                                     <span class="sr-only">Phone Number:</span>
-                                    <a href="tel:00201000070013">+20 100 007 0013</a>  
+                                    <a href="tel:#######">+#########</a>  
                                 </div>
 
                             </div>
